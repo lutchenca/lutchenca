@@ -26,7 +26,7 @@
 
 
 ## 👩‍🔧 Languagens and tools
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 ### Frontend 
