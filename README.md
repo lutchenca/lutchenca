@@ -44,7 +44,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -57,11 +57,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
 </td></tr></table>  
-
 
 <br/>  
 
