@@ -8,7 +8,7 @@
 
 - 🎓  I have a bachelor degree in Marketing and Advertising 👩‍🎓  but currently I'm trying to get into a master's degree in computer science 👩‍💻.
 
-- 🌱  I'm on track for learning more about Front End and Web Design, with JavaScript, CSS and HTML.
+- 🌱  I'm on track for learning more about Front End and Web Design, with JavaScript, CSS, HTML and React and back end with NodeJS.
 
 - 💬  My best quality is communication, so feel free to talk and discuss.
 
