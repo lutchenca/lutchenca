@@ -6,7 +6,7 @@
   <br/> 
 
 
-- 🎓  I have a bachelor degree in Marketing and Advertising 👩‍🎓  but currently I'm trying to get into a master's degree in computer science 👩‍💻.
+- 🎓  I have a bachelor degree in Marketing and Advertising 👩‍🎓  but currently I'm studying a lot about computer science 👩‍💻.
 
 - 🔭 I’m currently working to Netherlands 🇳🇱 on [Cloud++](https://cloudplusplus.nl/) ans Project Manager.  
 
