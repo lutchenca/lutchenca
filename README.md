@@ -64,7 +64,7 @@
 </div>
 
 </td><td valign="top" width="33%">
-
+<div align="center">All this stacks, besides the web design ones (adobe suite), I'm still learning and improving. I will update as I learn new ones. 😀</div>  
 
 </td></tr></table>  
 
@@ -103,18 +103,6 @@
 
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-<div align="center">
-            <a href="https://www.buymeacoffee.com/lutchenca" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 
 <div align="center"> <b> “I never see what has been done; I only see what remains to be done.” - Marie Curie </b></div>
