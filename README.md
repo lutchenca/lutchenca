@@ -16,7 +16,7 @@
 
 - ✍️  My hobbies/side hustles involves: filmmaking, music, cooking and going to the gym 💪. 
 
-- 🥅 2021 Goals: start contributing to the open source community and create content!
+- 🥅 2022 Goals: start contributing to the open source community and create content!
   
 
 <br/>  
