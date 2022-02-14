@@ -1,6 +1,6 @@
 ## <div align="center">Hey! My name is Lutchenca, but you can call me Lut 👋 
 
-#### I'm a 25 year old marketing specialist from Brazil 🇧🇷 who loves making videos, scripts, graphic design and now I'm on my way learning development and web design. I have a lot experience working with companies and freelancing and now I'm pursuit my dream to include all of that with web development! </div>  
+#### I'm a marketing specialist from Brazil 🇧🇷 who loves making videos, scripts, design and now I'm on my way learning development and web design. I have a lot experience working with companies and freelancing and now I'm pursuit my dream to include all of that with web development! </div>  
   
 
   <br/> 
