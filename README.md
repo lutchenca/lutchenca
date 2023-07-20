@@ -3,7 +3,7 @@
 
 - 🎓  I have a bachelor degree in Marketing and Advertising 👩‍🎓  but currently I'm studying a lot about computer science 👩‍💻.
 
-- 🔭 I’m currently working to Netherlands 🇳🇱 on [Cloud++](https://cloudplusplus.nl/) as Jr Software Developer.  
+- 🔭 I’m currently working to [Hostinger](https://www.hostinger.com/) as IT Customer Success Specialist  
 
 - 🌱   I’m currently learning NodeJS and Angular and on track to improve my skills on HTML, CSS, Javascript and Web Design. 
 
